@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keerthan R</h1>
-<h3 align="center">A passionate Cyber Security Analyst from India</h3>
+<h3 align="center">A passionate Cyber Security Analyst from Bengaluru</h3>
 
 - 🔭 I’m currently working on **Google Cyber Security Course**
 
